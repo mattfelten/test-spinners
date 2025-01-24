@@ -14,3 +14,7 @@ The requested module 'spinners-react' does not provide an export named 'SpinnerC
 
 1. `npm install` to install dependencies
 2. `npm start` or `npm run dev` to see error
+
+# Package works outside of Astro
+
+Repo: https://codesandbox.io/p/sandbox/test-react-spinners-zf2nph?file=%2Fsrc%2Findex.tsx
